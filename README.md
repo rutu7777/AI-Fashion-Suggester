@@ -33,10 +33,13 @@ Clone Repo
 
 Create .env
 
--Edit .env and add your keys:
--OPENROUTER_API_KEY=your_openrouter_key
--WEATHER_API_KEY=your_openweathermap_key
--PORT=3001    ( optional )
+Edit .env and add your keys:
+
+OPENROUTER_API_KEY=your_openrouter_key
+
+WEATHER_API_KEY=your_openweathermap_key
+
+PORT=3001    ( optional )
 
 
 Install dependencies
